@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> Due to recent github outages this repo has been migrated to [https://gitlab.com/ValiantElf/resume-cli](https://gitlab.com/ValiantElf/resume-cli)
+
 # resume-cli
 
 [![matrix](https://img.shields.io/badge/matrix-join%20chat-%230dbd8b)](https://matrix.to/#/#json-resume:one.ems.host)
